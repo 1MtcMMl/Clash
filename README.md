@@ -20,4 +20,26 @@ DOMAIN-KEYWORD,xxxx
 #举例 - 正则包含并排除的写法 - 香港节点不筛选5倍节点
 custom_proxy_group=🇭🇰 香港节点`url-test`(?=.*(港|HK|Hong Kong|🇭🇰|HongKong))^((?!(5.0|5倍|5x)).)*$`http://www.gstatic.com/generate_204`300,,50
 
+#优先度
+规则按照配置文件里的顺序，按照从头到尾的顺序进行匹配。换句话说，第一条规则的优先级最高。
+#  编辑规则
+每一条规则由三部分组成：规则类型、匹配的流量（FINAL 规则没有这一项）以及所采取的策略。
+即：TYPR,VALUE,POLICY。
+比如：DOMAIN-SUFFIX,apple.com,DIRECT 
+IP-CIDR,192.168.0.0/16,ProxyA。
+
+#域名规则
+有三种根据域名判断的规则
+#DOMAIN
+DOMAIN,www.apple.com,Proxy
+规则会匹配与请求完全相同的地址
+#DOMAIN-SUFFIX
+DOMAIN-SUFFIX,apple.com,Proxy
+规则会匹配与请求与主域名相同的地址
+#DOMAIN-KEYWORD
+DOMAIN-KEYWORD,google,Proxy
+规则会匹配包含相应关键字的域名
+
+
+
 
