@@ -4,9 +4,12 @@
 # DOMAIN-SUFFIX,
 # DOMAIN-KEYWORD,
 
-DOMAIN-SUFFIX,nakonako.net
-DOMAIN-SUFFIX,emby-pub1.blueseacdn.com
-DOMAIN-SUFFIX,pornemby.club
-DOMAIN-SUFFIX,misty.ltd
+DOMAIN,nakonako.net
+DOMAIN,emby-pub1.blueseacdn.com
+DOMAIN,pornemby.club
+DOMAIN,misty.ltd
+DOMAIN,embytv.cf
+DOMAIN,catfishemby.club
+
 DOMAIN-KEYWORD,nako
 DOMAIN-KEYWORD,pornemby
