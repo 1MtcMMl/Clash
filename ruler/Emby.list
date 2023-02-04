@@ -5,11 +5,21 @@
 # DOMAIN-KEYWORD,
 
 DOMAIN,nakonako.net
-DOMAIN,emby-pub1.blueseacdn.com
-DOMAIN,pornemby.club
-DOMAIN,misty.ltd
-DOMAIN,embytv.cf
-DOMAIN,catfishemby.club
+DOMAIN-SUFFIX,nakonako.net
+DOMAIN-KEYWORD,nakonako
 
-DOMAIN-KEYWORD,nako
+DOMAIN,emby-pub1.blueseacdn.com
+DOMAIN-SUFFIX,blueseacdn.com
+DOMAIN-KEYWORD,blueseacdn
+
+DOMAIN,pornemby.club
+DOMAIN-SUFFIX,pornemby.club
 DOMAIN-KEYWORD,pornemby
+
+DOMAIN,misty.ltd
+DOMAIN-SUFFIX,misty.ltd
+DOMAIN-KEYWORD,misty
+
+DOMAIN,catfishemby.club
+DOMAIN-SUFFIX,catfishemby.club
+DOMAIN-KEYWORD,catfishemby
