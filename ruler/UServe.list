@@ -1,0 +1,9 @@
+#UServe
+
+DOMAIN,www.textnow.com
+DOMAIN-SUFFIX,textnow.com
+DOMAIN-KEYWORD,textnow
+
+DOMAIN,chat.openai.com
+DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-KEYWORD,openai
