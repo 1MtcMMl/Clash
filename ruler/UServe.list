@@ -12,3 +12,5 @@ DOMAIN,lens.l.google.com
 DOMAIN,web.voice.telephony.goog
 DOMAIN,voice.telephony.goog
 DOMAIN-SUFFIX,voice.telephony.goog
+DOMAIN,voice.google.com
+DOMAIN-SUFFIX,voice.google.com
