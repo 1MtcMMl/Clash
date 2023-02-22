@@ -4,18 +4,22 @@
 # DOMAIN-SUFFIX,
 # DOMAIN-KEYWORD,
 
+#CC
 DOMAIN,cc.ccemby.tk
 DOMAIN-SUFFIX,ccemby.tk
 DOMAIN-KEYWORD,ccemby
 
+#Moreemby
 DOMAIN,moreemby.com
 DOMAIN-SUFFIX,moreemby.com
 DOMAIN-KEYWORD,moreemby
 
+#ACembtt
 DOMAIN,play.acemby.org
 DOMAIN-SUFFIX,acemby.org
 DOMAIN-KEYWORD,acemby
 
+#Peach
 DOMAIN,embymv.tk
 DOMAIN,kr.embymv.tk
 DOMAIN,jp.embymv.tk
@@ -23,38 +27,37 @@ DOMAIN,us.embymv.tk
 DOMAIN-SUFFIX,embymv.tk
 DOMAIN-KEYWORD,embymv
 
+#JMS
 DOMAIN,cf.jmsooo.com
 DOMAIN,ha.jmsooo.com
 DOMAIN-SUFFIX,jmsooo.com
-DOMAIN-KEYWORD,jmsooo
 
-DOMAIN,emby.222921.xyz
+
+#HXD
 DOMAIN,embyen.222921.xyz
 DOMAIN,embysg.222921.xyz
 DOMAIN,embyjp.222921.xyz
-DOMAIN-SUFFIX,222921.xyz
-DOMAIN-KEYWORD,222921
 
+#infinityfly
 DOMAIN,infinityfly.top
 DOMAIN-SUFFIX,infinityfly.top
 DOMAIN-KEYWORD,infinityfly
 
+#studyfun
 DOMAIN,zz.studyfun.live
 DOMAIN,4837.studyfun.live
 DOMAIN,9929.studyfun.live
 DOMAIN-SUFFIX,studyfun.live
 DOMAIN-KEYWORD,studyfun
 
+#终点站
 DOMAIN,pub1.emby.wtf
 DOMAIN,pub2.emby.wtf
 DOMAIN,pub3.emby.wtf
 DOMAIN,pub4.emby.wtf
 DOMAIN-SUFFIX,emby.wtf
-DOMAIN-KEYWORD,pub1
-DOMAIN-KEYWORD,pub2
-DOMAIN-KEYWORD,pub3
-DOMAIN-KEYWORD,pub4
 
+#1111
 DOMAIN,11.loseremby.org
 DOMAIN-SUFFIX,loseremby.org
 DOMAIN-KEYWORD,loseremby
@@ -62,6 +65,7 @@ DOMAIN-KEYWORD,loseremby
 DOMAIN,cf.emby.ml
 DOMAIN-SUFFIX,emby.ml
 
+#Polo
 DOMAIN,happy.poloemby.xyz
 DOMAIN,cmi.pololine.ml
 DOMAIN,sp.pololine.ml
@@ -69,18 +73,18 @@ DOMAIN-SUFFIX,poloemby.xyz
 DOMAIN-SUFFIX,pololine.ml
 DOMAIN-KEYWORD,pololine
 
+#Orange
 DOMAIN,cdn.embytv.cf
 DOMAIN,gia.freeview.cc
 
-
-DOMAIN-SUFFIX,freeview.cc
-
+#misakaf
 DOMAIN,cf2.misakaf.org
 DOMAIN,hk.misakaf.org
 DOMAIN,4837.misakaf.org
 DOMAIN-SUFFIX,misakaf.org
 DOMAIN-KEYWORD,misakaf
 
+#nakoemby
 DOMAIN,nakoemby.com
 DOMAIN-SUFFIX,nakoemby.com
 DOMAIN-KEYWORD,nakoemby
@@ -102,6 +106,7 @@ DOMAIN,194.9.62.121
 DOMAIN-SUFFIX,the98.ltd
 DOMAIN-KEYWORD,the98
 
+#NMG
 DOMAIN,nextfilm.nmg.llc
 DOMAIN-SUFFIX,nmg.llc
 DOMAIN-KEYWORD,nmg
