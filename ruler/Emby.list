@@ -4,29 +4,38 @@
 # DOMAIN-SUFFIX,
 # DOMAIN-KEYWORD,
 
+#nako
 DOMAIN,nakonako.net
 DOMAIN-SUFFIX,nakonako.net
 DOMAIN-KEYWORD,nakonako
 
+#bluesea
 DOMAIN,emby-pub1.blueseacdn.com
 DOMAIN-SUFFIX,blueseacdn.com
 DOMAIN-KEYWORD,blueseacdn
 
+#pornemby
 DOMAIN,pornemby.club
 DOMAIN-SUFFIX,pornemby.club
 DOMAIN-KEYWORD,pornemby
 
+#misty
 DOMAIN,misty.ltd
 DOMAIN-SUFFIX,misty.ltd
 DOMAIN-KEYWORD,misty
 
+#catfish
 DOMAIN,catfishemby.club
 DOMAIN-SUFFIX,catfishemby.club
 DOMAIN-KEYWORD,catfishemby
 
+#
 DOMAIN,emby.9191001.xyz
 DOMAIN-SUFFIX,9191001.xyz
 DOMAIN-KEYWORD,9191001
+
+#HXD
+DOMAIN,emby.222921.xyz
 
 #orange
 DOMAIN,cf.embytv.cf
